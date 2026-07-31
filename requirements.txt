@@ -1,0 +1,4 @@
+folium==0.20.0
+numpy==2.2.6
+streamlit==1.60.0
+pandas==2.3.1
